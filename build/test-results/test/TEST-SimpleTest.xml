@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-10-08T17:18:42" hostname="oleh.morozov" time="0.002">
+  <properties/>
+  <testcase name="testMethod1" classname="SimpleTest" time="0.0"/>
+  <testcase name="testMethod2" classname="SimpleTest" time="0.001"/>
+  <system-out><![CDATA[Before Method: Setting up the test...
+Test Method 1
+After Method: Cleaning up after the test...
+Before Method: Setting up the test...
+Test Method 2
+After Method: Cleaning up after the test...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
